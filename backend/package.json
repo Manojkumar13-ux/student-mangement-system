@@ -1,0 +1,32 @@
+{
+  "name": "student-management-system",
+  "version": "1.0.0",
+  "description": "A complete Student Management System with Node.js backend and React frontend - No npm install needed!",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "student-management",
+    "nodejs",
+    "react",
+    "full-stack",
+    "academic-project"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/student-management-system"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/student-management-system/issues"
+  },
+  "homepage": "https://github.com/yourusername/student-management-system#readme"
+}
